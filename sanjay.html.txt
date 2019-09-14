@@ -1,0 +1,68 @@
+<html>
+
+<head>
+     <title>sanjay</title>
+     <style>
+          .all-box {
+
+              text-align:center;
+          }
+
+          .red-box{
+              background-color: #C0343D;
+              text-align:center;
+              padding-top:80px;
+              padding-right:80px;
+              padding-bottom:80px;
+              padding-left:80px;
+              margin:100px 50px 10px 50px;
+              color: white;
+
+
+
+
+          }
+              .small-box{
+              background-color: #C0343D;
+              text-align:center;
+              padding:2px 2PX 2PX;
+              margin:7px 450px 7px 450px;
+              border-width:1px;
+              border-style: solid;
+              border-color: green;
+              color: white;
+
+
+              }
+              </style>
+            </head>
+
+            <body class="all-box">
+             <div class="red-box">
+             <h2>2019 Reading Notes</h2>
+
+             <p>
+                this project randomly displays one quote from each of the book I've read in 2019
+
+            </p>
+            </d>
+            <button class="small-box">SHOW ME ANOTHER</button>
+            <div>
+            <p>
+               The letters were bitter and funny and there were holes
+            </p>
+                <p>of unsaid where you could feel the demons breathing
+            </p></div>
+            <p>verdigris Deep &bull; Frances Hardings</p>
+            <div><p>
+                Made with optimism by SANJAY S p
+            </p></div>
+            </body>
+
+            </html>
+
+            </html>
+              
+
+          }
+          
